@@ -1,10 +1,10 @@
 cloud:
   aws:
     region:
-      static: us-east-2
-      auto: false
+      static: 
+      auto: 
     credentials:
-      access-key: AKIA5DZXPXCEMCETHL6Q
-      secret-key: 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
+      access-key:
+      secret-key: 
     end-point:
-      uri: https://sqs.us-east-2.amazonaws.com/901522634888/My-Queue
+      uri:
